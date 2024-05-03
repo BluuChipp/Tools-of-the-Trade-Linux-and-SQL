@@ -1,4 +1,4 @@
-# Tools-of-the-Trade-Linux-and-SQL
+# Tools of the Trade Linux and SQL
 
 <img width="430" alt="image" src="https://github.com/BluuChipp/Tools-of-the-Trade-Linux-and-SQL/assets/144733257/39590f28-5821-491f-b073-90b03a8dcf85">
 
